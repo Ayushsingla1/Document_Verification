@@ -1,4 +1,4 @@
-1. **Download From Drive**
+1. **Clone the repository**
    git clone https://github.com/Ayushsingla1/Document_Verification
 
 2. **Set Up and Run the React Frontend**
