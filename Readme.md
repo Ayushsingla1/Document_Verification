@@ -13,6 +13,14 @@
 - **MEMBER_5** - 2023UCA1912 - [@aashi1808](https://github.com/aashi1808)
 - **MEMBER_6** - 2023UCS1637 - [@swati19mittal](https://github.com/swati19mittal)
 
+
+## Project Links
+
+- **Final SIH Presentation:** [Final SIH Presentation](https://drive.google.com/file/d/1XAOR1d0Luh8yVpm1Iwb-zBkJuMZx-yrK/view?usp=sharing)
+- **Video Demonstration:** [Watch Video](https://drive.google.com/file/d/1K3ngkbb3vuEBvumv4uZAcITAgU4wL569/view?usp=sharing)
+- **Source Code:** [GitHub Repository](https://github.com/Ayushsingla1/Document_Verification)
+
+
 ## Installation
 
 1. **Clone the repository**.
