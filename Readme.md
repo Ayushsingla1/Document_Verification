@@ -7,9 +7,12 @@
    npm i
    npm run start
    ```
-4. **Set Up and Run the Backend**
+3. **Set Up and Run the Backend**
    ```bash
    cd Backend
    pip install -r requirements.txt
+   ```
+   3.1 Create a .env file and add in all the Environment keys from sample.env
+   ```bash
    python app.py
    ```
